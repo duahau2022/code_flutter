@@ -1,3 +1,13 @@
+# setup flutter ios
+
+https://brew.sh/
+Setting flutter macOS
+export PATH="$PATH:/Users/hungld/Documents/code/flutter/bin"
+
+vim ~/.zshenv
+hungld2mbbank@gmail.com
+
+
 # code_flutter: gitub: https://github.com/flutter/flutter
 - tai xcode: https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file
 
